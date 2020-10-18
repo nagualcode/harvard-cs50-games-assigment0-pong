@@ -15,6 +15,8 @@ Good luck!
 
 To run:
 
-git clone this repo love .
+git clone this repo 
+
+love .
 
 More info on how to get love: https://love2d.org/
